@@ -38,5 +38,3 @@ This project focuses on diagnosing various fault conditions in induction motors 
 - No external ML libraries for core algorithm implementations
 - Jupyter Notebook
 
-## Author
-- [Your Name]
